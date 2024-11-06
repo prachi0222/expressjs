@@ -1,0 +1,22 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "express login api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prachi0222/expressjs.git"
+  },
+  "author": "prachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prachi0222/expressjs/issues"
+  },
+  "homepage": "https://github.com/prachi0222/expressjs#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
